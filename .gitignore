@@ -1,0 +1,15 @@
+# Ignore the logs directory
+logs/
+
+# Ignore the virtual environment directory
+env/
+
+# Ignore SQLite database files
+*.sqlite3
+*.db
+
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/

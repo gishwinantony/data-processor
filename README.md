@@ -21,7 +21,7 @@ Follow these steps to set up the project locally:
 
 2. Navigate to the project directory:
     ```bash
-    cd data-processor
+    cd data-processor/DataProcessor
     ```
 
 3. Create a virtual environment and activate it:
@@ -45,7 +45,7 @@ Follow these steps to set up the project locally:
     python3 main.py
     ```
 
-7. Open your browser and go to `http://localhost:8080` to access the application.
+7. Open your browser and go to `http://localhost:8080/data/?well=34059242540000` to access the application and execute API
 
 
 ## Acknowledgements
